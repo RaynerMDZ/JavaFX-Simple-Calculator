@@ -9,4 +9,5 @@ I will be implementing more logic a better GUI.
      alt="Calculator picture"
      style="float: center; margin-right: 10px; " />
 
+@RaynerMDZ
 
