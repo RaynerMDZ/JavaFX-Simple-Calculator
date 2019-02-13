@@ -80,7 +80,7 @@
             </HBox>
             <HBox alignment="CENTER" prefHeight="50.0" prefWidth="300.0" spacing="10.0">
                <children>
-                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="97.0" text="6">
+                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="97.0" text="4">
                      <font>
                         <Font size="18.0" />
                      </font>
@@ -90,7 +90,7 @@
                         <Font size="18.0" />
                      </font>
                   </Button>
-                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="96.0" text="4">
+                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="96.0" text="6">
                      <font>
                         <Font size="18.0" />
                      </font>
@@ -105,7 +105,7 @@
             </HBox>
             <HBox alignment="CENTER" prefHeight="50.0" prefWidth="300.0" spacing="10.0">
                <children>
-                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="97.0" text="3">
+                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="97.0" text="1">
                      <font>
                         <Font size="18.0" />
                      </font>
@@ -115,7 +115,7 @@
                         <Font size="18.0" />
                      </font>
                   </Button>
-                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="96.0" text="1">
+                  <Button mnemonicParsing="false" onAction="#processNumbers" prefWidth="96.0" text="3">
                      <font>
                         <Font size="18.0" />
                      </font>
